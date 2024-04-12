@@ -1,0 +1,51 @@
+[1] "Predictors: father_height, father_height*father_height RMSE: 7.33918800446817 R-squared: 0.0521144764072405"
+[1] "Predictors: father_height, father_height*father_height*father_height RMSE: 7.33918800446817 R-squared: 0.0521144764072405"
+[1] "Predictors: mother_height, mother_height*mother_height RMSE: 7.20881736571055 R-squared: 0.0854911545520907"
+[1] "Predictors: mother_height, mother_height*mother_height*mother_height RMSE: 7.20881736571055 R-squared: 0.0854911545520907"
+[1] "Predictors: father_height, mother_height, father_height*father_height RMSE: 7.07949640476008 R-squared: 0.118008101805912"
+[1] "Predictors: father_height, mother_height, mother_height*father_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, father_height*mother_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, mother_height*mother_height RMSE: 7.07949640476008 R-squared: 0.118008101805912"
+[1] "Predictors: father_height, mother_height, father_height*father_height*father_height RMSE: 7.07949640476008 R-squared: 0.118008101805912"
+[1] "Predictors: father_height, mother_height, mother_height*father_height*father_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, father_height*mother_height*father_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, mother_height*mother_height*father_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, father_height*father_height*mother_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, mother_height*father_height*mother_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, father_height*mother_height*mother_height RMSE: 6.99824798223359 R-squared: 0.138136438006828"
+[1] "Predictors: father_height, mother_height, mother_height*mother_height*mother_height RMSE: 7.07949640476008 R-squared: 0.118008101805912"
+
+Call:
+lm(formula = formula, data = data)
+
+Coefficients:
+                (Intercept)                father_height  
+                  717.51915                     -3.54388  
+              mother_height  father_height:mother_height  
+                   -3.87004                      0.02461  
+
+Best RMSE: 6.998248 
+Best R-squared: 0.1381364 
+Mean:
+       height father_height mother_height 
+     163.9115      167.7433      157.5289 
+Median:
+       height father_height mother_height 
+          165           168           158 
+Standard Deviation:
+       height father_height mother_height 
+     7.552240      5.798687      6.662913 
+Variance:
+       height father_height mother_height 
+     57.03634      33.62477      44.39440 
+Maximum:
+       height father_height mother_height 
+          182           182           171 
+Minimum:
+       height father_height mother_height 
+          142           150           135 
+Range:
+     height father_height mother_height
+[1,]    142           150           135
+[2,]    182           182           171
+Predictor variables in the best model: father_height, mother_height, mother_height*father_height 
