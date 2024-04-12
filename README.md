@@ -1,0 +1,6 @@
+![STA202_ Final Project Report (1)](https://github.com/malay44/sta202/assets/101856674/49222a19-00f6-4b94-b004-175f0b320547)
+![STA202_ Final Project Report (2)](https://github.com/malay44/sta202/assets/101856674/29e84f00-6746-487b-a44f-e12f4c4295eb)
+![STA202_ Final Project Report (3)](https://github.com/malay44/sta202/assets/101856674/fc8f1a50-c16c-4605-a0dc-4f60990dde88)
+![STA202_ Final Project Report (4)](https://github.com/malay44/sta202/assets/101856674/6fe5db41-ef66-4072-ac0c-0885482d165f)
+![STA202_ Final Project Report (5)](https://github.com/malay44/sta202/assets/101856674/e5c8612e-0b2a-44ea-ab56-301599acc3fd)
+![STA202_ Final Project Report (6)](https://github.com/malay44/sta202/assets/101856674/82baaad2-249e-4cae-bc23-96362da8954c)
